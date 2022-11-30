@@ -1,0 +1,6 @@
+C:\raphaelcardoso\POO-CSharp\Conta\bin\Debug\Conta.exe
+C:\raphaelcardoso\POO-CSharp\Conta\bin\Debug\Conta.pdb
+C:\raphaelcardoso\POO-CSharp\Conta\obj\Debug\Conta.csprojAssemblyReference.cache
+C:\raphaelcardoso\POO-CSharp\Conta\obj\Debug\Conta.csproj.CoreCompileInputs.cache
+C:\raphaelcardoso\POO-CSharp\Conta\obj\Debug\Conta.exe
+C:\raphaelcardoso\POO-CSharp\Conta\obj\Debug\Conta.pdb
