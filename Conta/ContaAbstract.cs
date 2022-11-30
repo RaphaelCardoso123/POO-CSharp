@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Conta
 {
@@ -13,7 +11,6 @@ namespace Conta
         private double Saldo { get; set; }
 
 
-        //Método (Ação)
         public void Depositar(double valor)
         {
             Saldo = Saldo + valor;
@@ -31,10 +28,10 @@ namespace Conta
         }
 
 
-        //Polimorfismo (Virtual)
+
         public virtual void ExibirTipoDeConta()
         {
-            Console.WriteLine("Tipo de conta: "); // Feito separado pq são tipos diferentes de contas
+            Console.WriteLine("Tipo de conta: "); 
         }
         public virtual void ExibirResumoConta()
         {
