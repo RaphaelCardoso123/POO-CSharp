@@ -39,6 +39,7 @@
   <ItemGroup>
     <Compile Include="AnimalAbstract.cs" />
     <Compile Include="Cachorro.cs" />
+    <Compile Include="Esquilo.cs" />
     <Compile Include="Gato.cs" />
     <Compile Include="Passaro.cs" />
     <Compile Include="Program.cs" />
