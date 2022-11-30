@@ -34,14 +34,7 @@ namespace Animal
             passaro.Piar = "PiuPiuPiu!!";
             passaro.ResumoAnimal();
 
-            Console.WriteLine("");
 
-            Esquilo esquilo = new Esquilo();
-            esquilo.TipoAnimal();
-            esquilo.Raca = "Silvestre";
-            esquilo.Tamanho = "pequeno";
-            esquilo.gritar = "Nhaaaau!!";
-            esquilo.ResumoAnimal();
             
 
             Console.ReadLine();
