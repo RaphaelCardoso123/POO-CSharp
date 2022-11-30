@@ -33,8 +33,7 @@ namespace Animal
             passaro.Tamanho = "Pequeno";
             passaro.Piar = "PiuPiuPiu!!";
             passaro.ResumoAnimal();
-
-
+            
             
 
             Console.ReadLine();

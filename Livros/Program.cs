@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Livros
 {
@@ -61,6 +59,7 @@ namespace Livros
                 Console.WriteLine($"Email: {obj.Email}.");
                 Console.WriteLine("");
             }
+
 
             Console.ReadLine();
 
