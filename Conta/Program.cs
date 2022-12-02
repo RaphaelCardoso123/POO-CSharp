@@ -1,38 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Conta
+﻿using Conta;
+using System;
+class Program
 {
-    class Program
+    public static void Main()
     {
-        static void Main(string[] args)
-        {
+        ContaCorrente conta = new ContaCorrente("Raphael", 123, 2025, 3500.00);
 
-            ContaCorrente contaC = new ContaCorrente();
-            contaC.Nome = "Raphael Cardoso";
-            contaC.Numero = 9999;
-            contaC.Agencia = 123;
-            contaC.Tarifa = 15;
-            contaC.Depositar(1000);  
-            contaC.Sacar(900);       
-            contaC.ExibirTipoDeConta(); 
-            contaC.ExibirResumoConta();
-            Console.WriteLine("----------------------");
+        conta.Sacar(1000);
+        conta.Depositar(3000);
 
+        Console.WriteLine(conta);
 
-            ContaPoupanca contaP = new ContaPoupanca();
-            contaP.Nome = "Flávia Gimmioli";
-            contaP.Numero = 8888;
-            contaP.Agencia = 321;
-            contaP.Juros = 2;
-            contaP.Depositar(1200);
-            contaP.Sacar(800);     
-            contaP.ExibirTipoDeConta(); 
-            contaP.ExibirResumoConta();
-
-            Console.ReadLine();
-
-        }
+        Console.ReadLine();
     }
 }
