@@ -4,3 +4,9 @@ C:\raphaelcardoso\POO-CSharp\Livros\obj\Debug\Livros.csprojAssemblyReference.cac
 C:\raphaelcardoso\POO-CSharp\Livros\obj\Debug\Livros.csproj.CoreCompileInputs.cache
 C:\raphaelcardoso\POO-CSharp\Livros\obj\Debug\Livros.exe
 C:\raphaelcardoso\POO-CSharp\Livros\obj\Debug\Livros.pdb
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Livros\bin\Debug\Livros.exe
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Livros\bin\Debug\Livros.pdb
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Livros\obj\Debug\Livros.csprojAssemblyReference.cache
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Livros\obj\Debug\Livros.csproj.CoreCompileInputs.cache
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Livros\obj\Debug\Livros.exe
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Livros\obj\Debug\Livros.pdb
