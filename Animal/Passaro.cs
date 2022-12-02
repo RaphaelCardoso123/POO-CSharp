@@ -16,6 +16,5 @@ namespace Animal
         {
             Console.WriteLine("Pássaro:");
         }
-
     }
 }

@@ -4,3 +4,9 @@ C:\raphaelcardoso\POO-CSharp\Animal\obj\Debug\Animal.csprojAssemblyReference.cac
 C:\raphaelcardoso\POO-CSharp\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
 C:\raphaelcardoso\POO-CSharp\Animal\obj\Debug\Animal.exe
 C:\raphaelcardoso\POO-CSharp\Animal\obj\Debug\Animal.pdb
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Animal\bin\Debug\Animal.exe
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Animal\bin\Debug\Animal.pdb
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Animal\obj\Debug\Animal.csproj.CoreCompileInputs.cache
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Animal\obj\Debug\Animal.exe
+C:\Users\raphael.cardoso\Desktop\POO-CSharp\Animal\obj\Debug\Animal.pdb

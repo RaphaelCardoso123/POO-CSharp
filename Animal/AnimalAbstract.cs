@@ -19,6 +19,5 @@ namespace Animal
             Console.WriteLine($"Raça: {Raca}");
             Console.WriteLine($"Tamanho: {Tamanho}");
         }
-
     }
 }
