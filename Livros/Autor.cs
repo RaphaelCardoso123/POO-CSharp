@@ -1,5 +1,4 @@
-﻿
-namespace Livros
+﻿namespace Livros
 {
     class Autor
     {
